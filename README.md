@@ -5,8 +5,8 @@ Salut ! Je suis **Andrianina**, un étudiant passionné d'informatique avec un i
 
 ## Quelques Projets:
 
--[Gestion d'étudiant simple en C++] (https://github.com/TedAn-H0nzrA/Gestion_Biblio_cpp)
-
+🔹 **[Gestion Bibliothèque simple en C++](https://github.com/TedAn-H0nzrA/Gestion_Biblio_cpp)**
+> Développement d'une applicatin basic en c++ pour la gestion d'étudiant.
 ---
 
 ## 🎯 À propos de moi
