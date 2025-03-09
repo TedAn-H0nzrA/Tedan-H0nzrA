@@ -3,6 +3,10 @@
 ## 👋 Bienvenue !
 Salut ! Je suis **Andrianina**, un étudiant passionné d'informatique avec un intérêt particulier pour l'**Intelligence Artificielle (IA)**, le **Machine Learning (ML)** et le **Deep Learning (DL)**. Ce dépôt est mon portfolio où je partage mes projets, mes expérimentations et mon évolution en tant que développeur.
 
+## Quelques Projets:
+
+-[Gestion d'étudiant simple en C++] (https://github.com/TedAn-H0nzrA/Gestion_Biblio_cpp)
+
 ---
 
 ## 🎯 À propos de moi
